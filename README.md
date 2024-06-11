@@ -32,5 +32,8 @@ python .\src\sraping\scraper.py
 Esto generará un archivo CSV en la carpeta "Raw" dentro de la carpeta "data" llamando "products.csv"
 
 
+Michelle Gutierrez / micgutierrez17@gmail.com
+
+
 
 
